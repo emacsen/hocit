@@ -1,0 +1,8 @@
+#+TAGS: @hocit
+
+* TODO Complete the README
+* TODO Complete the models and build a simple admin UI to start
+* TODO Decide if there should be an "Incident" model with a many:many relationship with Reports, or use Markdown
+* TODO Decide if People need to be collapasible (ie reporter #2 is reporter #5)
+* TODO Decide if anonymous users are also registered
+
