@@ -1,8 +1,10 @@
 #+TAGS: @hocit
 
 * TODO Complete the README
-* TODO Complete the models and build a simple admin UI to start
-* TODO Decide if there should be an "Incident" model with a many:many relationship with Reports, or use Markdown
-* TODO Decide if People need to be collapasible (ie reporter #2 is reporter #5)
-* TODO Decide if anonymous users are also registered
-
+* TODO Build a simple Admin UI for testing (only for testing)
+* TODO Build an initial report form that creates a note, actor and report at once
+* TODO Build a simple user-only form that lets you see the report and add a note
+* TODO Create code that if an actor on the note has email that there's an email reply
+* TODO Decide about an "incident" model or not
+* TODO Set up logging
+* TODO Set up testing
